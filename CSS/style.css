@@ -1,0 +1,38 @@
+body{
+    background: #3c3e8b4a;
+    background-image: url(./Wallpaper\ meteorites\,\ stars\,\ planet\,\ 4k\,\ Space\ 7788614298.jpg); 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;
+    color: floralwhite;
+
+}
+
+h2{
+    font-size: 12px;
+    text-align: center;
+    color: floralwhite;
+}
+
+h4{
+    text-align: center;
+}
+
+.card-body{
+    background-color: #2a3243eb;
+}
+
+.card-header{
+    background-color: #429f5a9e;
+}
+
+.jumbotron{
+    background-color: #429f5a9e;
+}
